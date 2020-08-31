@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+  <Rule Name="Bumble" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Apps">
+    <Addresses>
+      <Address>noreply@bumble.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Facebook" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Apps">
+    <Addresses>
+      <Address>notification@facebookmail.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Instagram" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Apps">
+    <Addresses>
+      <Address>security@mail.instagram.com</Address>
+      <Address>no-reply@mail.instagram.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="LinkedIn" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Apps">
+    <Addresses>
+      <Address>invitations@linkedin.com</Address>
+      <Address>jobs-listings@linkedin.com</Address>
+      <Address>linkedin@e.linkedin.com</Address>
+      <Address>messages-noreply@linkedin.com</Address>
+      <Address>notifications-noreply@linkedin.com</Address>
+      <Address>inmail-hit-reply@linkedin.com</Address>
+      <Address>jobalerts-noreply@linkedin.com</Address>
+      <Address>jobs-noreply@linkedin.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="OkCupid" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Apps">
+    <Addresses>
+      <Address>bounces@promo.oknotify2.com</Address>
+      <Address>bounces@alerts.oknotify2.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Pinterest" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Apps">
+    <Addresses>
+      <Address>noreply@account.pinterest.com</Address>
+      <Address>pinbot@ideas.pinterest.com</Address>
+      <Address>pinterest-recommendations@ideas.pinterest.com</Address>
+      <Address>recommendations@explore.pinterest.com</Address>
+      <Address>recommendations@inspire.pinterest.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Twitter" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Apps">
+    <Addresses>
+      <Address>info@twitter.com</Address>
+      <Address>notify@twitter.com</Address>
+      <Address>verify@twitter.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="FindAJob" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Carreer">
+    <Addresses>
+      <Address>contact@findajobmatch.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Indeed" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Carreer">
+    <Addresses>
+      <Address>alert@indeed.com</Address>
+      <Address>job-search@indeed.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="MiscCarreer" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Carreer">
+    <Addresses>
+      <Address>amsterdam@adamsrecruitment.com</Address>
+      <Address>fons@thegreendoorcompany.nl</Address>
+      <Address>info@darwinrecruitment.com</Address>
+      <Address>info@thegreendoorcompany.nl</Address>
+      <Address>no-reply@atos.net</Address>
+      <Address>no-reply@jumbo.com</Address>
+      <Address>notification@jobvite.com</Address>
+      <Address>jobs@solactive.com</Address>
+      <Address>tecareers@successfactors.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="OccMundial" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Carreer">
+    <Addresses>
+      <Address>info@mailinginformativo.com</Address>
+      <Address>info@tx.occmundial.com.mx</Address>
+      <Address>newsletter@sf.occmkt.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Talenteca" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Carreer">
+    <Addresses>
+      <Address>no-reply@talenteca.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="TechInJob" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Carreer">
+    <Addresses>
+      <Address>techint-jobnotification@noreply.jobs2web.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Academia" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>premium@academia-mail.com</Address>
+      <Address>updates@academia-mail.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Brillant" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>notifications@brilliant.org</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="CCEEA" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>cursos@cceea.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="CodeAcademy" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>pro@codecademy.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Coursera" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>no-reply@m.mail.coursera.org</Address>
+      <Address>no-reply@t.mail.coursera.org</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="DataCamp" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>team@datacamp.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="DocSity" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>docs-es@docsity.com</Address>
+      <Address>master@docsity.com</Address>
+      <Address>noreply@docsity.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Itesm" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>admisiones@servicios.itesm.mx</Address>
+      <Address>carlosseda@studentpartner.com</Address>
+      <Address>contacto@incmty.com</Address>
+      <Address>graduaciones@servicios.itesm.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="MatLab" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>amendezm@go.mathworks.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="MexIndustry" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>ricardo.cevada@mex4industry.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="RequestBin" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>welcome@pipedream.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="TecGurus" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>admin@tecgurus.com.mx</Address>
+      <Address>staff@tecgurus.net</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Udem" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Learning">
+    <Addresses>
+      <Address>admisiones.carrerasudem@udem.edu.mx</Address>
+      <Address>admisiones@udem.edu.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Benavides" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Misc">
+    <Addresses>
+      <Address>tarjetabenavides@farmaciasbenavides.com.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Boletia" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Misc">
+    <Addresses>
+      <Address>notificaciones@boletia.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="FatSecret" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Misc">
+    <Addresses>
+      <Address>contact@fatsecret.com</Address>
+      <Address>sebastian@fatsecret.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="FontAwesome" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Misc">
+    <Addresses>
+      <Address>fontawesome.com@tl.fortawesome.com</Address>
+      <Address>hello=fontawesome.com@tl.fortawesome.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="GlassDoor" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Misc">
+    <Addresses>
+      <Address>glassdoorjobs@glassdoor.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="LucidChart" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Misc">
+    <Addresses>
+      <Address>support@lucidchart.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="SuperProf" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Misc">
+    <Addresses>
+      <Address>holamexico@superprof.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Amazon" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Purchases">
+    <Addresses>
+      <Address>account-alert@amazon.com</Address>
+      <Address>account-update@amazon.com</Address>
+      <Address>payments-update@amazon.com.mx</Address>
+      <Address>auto-confirm@amazon.com.mx</Address>
+      <Address>bz1w0g1zpb32dbr@marketplace.amazon.com.mx</Address>
+      <Address>marketplace-messages@amazon.com.mx</Address>
+      <Address>noreply@amazon.com.mx</Address>
+      <Address>order-update@amazon.com.mx</Address>
+      <Address>shipment-tracking@amazon.com.mx</Address>
+      <Address>store-news@amazon.com.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Bancos" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Purchases">
+    <Addresses>
+      <Address>info@envio.santander.com.mx</Address>
+      <Address>notificaciones@banorte.com</Address>
+      <Address>notificaciones@citibanamex.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="MercadoLibre" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Purchases">
+    <Addresses>
+      <Address>info@mercadopago.com</Address>
+      <Address>ofertas@r.mercadolibre.com.mx</Address>
+      <Address>support@supportcenter.mercadolibre.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="PayPal" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Purchases">
+    <Addresses>
+      <Address>paypal@mail.paypal.com.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Ticketmaster" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Purchases">
+    <Addresses>
+      <Address>info@ticketmastermex.com</Address>
+      <Address>newsletter@email.ticketmaster.com</Address>
+      <Address>newsletter@email.ticketmaster.com.mx</Address>
+      <Address>noreply@info.ticketmaster.com.mx</Address>
+      <Address>reply.mx@tmclient.ticketmaster.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="AirBnb" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>noreply@airbnb.com</Address>
+      <Address>discover@airbnb.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Dominos" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>info@dominos.com.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="FreeSQL" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>support@freesqldatabase.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Netflix" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>info@mailer.netflix.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Rappi" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>info@news.rappi.com.mx</Address>
+      <Address>novedades@news.rappi.com.co</Address>
+      <Address>support@rappimail.com</Address>
+      <Address>rappi.nreply@rappi.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Spotify" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>no-reply@spotify.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Telcel" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>comunidadeninfinitum@eninfinitum.com</Address>
+      <Address>envios@promos.telcel.com</Address>
+      <Address>postmaster@promos.telcel.com</Address>
+      <Address>comunidadeninfinitum@infinitum.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Uber" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>email@et.uber.com</Address>
+      <Address>noreply@uber.com</Address>
+      <Address>uber.mexico@uber.com</Address>
+      <Address>uber@uber.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Waze" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>noreply@waze.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Zoom" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Services">
+    <Addresses>
+      <Address>no-reply@zoom.us</Address>
+      <Address>support@zoom.us</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Bitdefender" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Top">
+    <Addresses>
+      <Address>bitdefender@hello.bitdefender.com</Address>
+      <Address>no-reply@info.bitdefender.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Firefox" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Top">
+    <Addresses>
+      <Address>accounts@firefox.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="GitHub" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Top">
+    <Addresses>
+      <Address>noreply@github.com</Address>
+      <Address>education@github.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Google" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Top">
+    <Addresses>
+      <Address>analytics-noreply@google.com</Address>
+      <Address>firebase-no-reply@google.com</Address>
+      <Address>noreply@google.com</Address>
+      <Address>googlehome.noreply@google.com</Address>
+      <Address>no-reply@accounts.google.com</Address>
+      <Address>no-reply@google.com</Address>
+      <Address>no-reply@youtube.com</Address>
+      <Address>noreply-utos@google.com</Address>
+      <Address>welcome-googleplay-noreply@google.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Microsoft" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Top">
+    <Addresses>
+      <Address>account-security-noreply@accountprotection.microsoft.com</Address>
+      <Address>bing@e.microsoft.com</Address>
+      <Address>bing@microsoft.com</Address>
+      <Address>email@mail.onedrive.com</Address>
+      <Address>microsoftoffice365@email.office.com</Address>
+      <Address>microsoftrewards@email.microsoftrewards.com</Address>
+      <Address>microsoftstore@microsoftstoreemail.com</Address>
+      <Address>no-reply@microsoft.com</Address>
+      <Address>stremail@microsoft.com</Address>
+      <Address>unmonitored@microsoft.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Samsung" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Top">
+    <Addresses>
+      <Address>no-reply@samsungcloud.com</Address>
+      <Address>SA.noreply@samsung-mail.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="StackOverflow" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Top">
+    <Addresses>
+      <Address>do-not-reply@stackoverflow.email</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Xbox" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Top">
+    <Addresses>
+      <Address>xbox@engage.xbox.com</Address>
+      <Address>xboxreps@engage.xbox.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Performance" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Wellness">
+    <Addresses>
+      <Address>noreply@notify.thinkific.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Polar" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Wellness">
+    <Addresses>
+      <Address>no-reply@polar.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Sadik" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Wellness">
+    <Addresses>
+      <Address>info@sadikfitness.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Spartan" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Wellness">
+    <Addresses>
+      <Address>spartan@e.spartan.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="StrongByScience" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Wellness">
+    <Addresses>
+      <Address>jay@strongerbyscience.com</Address>
+      <Address>jay@strengtheory.com</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="SuplementosGym" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Wellness">
+    <Addresses>
+      <Address>servicio@suplementosgym.com.mx</Address>
+    </Addresses>
+  </Rule>
+  <Rule Name="Reddit" LocationFolderName="Bandeja de entrada" DestinationFolderName="_Apps">
+    <Addresses>
+      <Address>noreply@reddit.com</Address>
+    </Addresses>
+  </Rule>
+</Rules>
